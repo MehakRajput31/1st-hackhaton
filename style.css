@@ -1,0 +1,132 @@
+.img{
+    height: 40px;
+    width: 100px;
+}
+ .logo{  
+    /* color: ; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .content a:hover {
+    background-color:lightgreen;
+    color: black;}
+    
+.carousel-fade{
+    z-index: -1;
+}
+.max-width-container{
+    padding-left: 20px;
+    margin-top: -500px;
+}
+.header{
+    color: white;
+
+}
+.long-placeholder{
+    width: 45%;
+    height: 50px;
+}
+.you{
+    height: 50px;
+    width: 50px;
+}
+.popular a{
+ color: aqua;
+}
+  .popular a {
+    text-decoration: none;
+  }  
+  .popular li {
+    list-style: none;
+    padding: 3px 8px;
+    margin-top: -22px;
+
+  }
+  .popular ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 800px;
+  }
+ .you :hover {
+    background-color: lightgreen;
+ }
+.roar{
+    margin-bottom: 30px;
+}
+
+.ok ul {
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ padding: 350px;
+ 
+}
+.ok li {
+    list-style: none;
+}
+.for{
+    margin-top: -350px;
+}
+.types {
+    display: flex;
+    
+  }
+  .first{
+    height: 500px;
+    width: 200px;
+    background-color: lightgreen;
+    margin-left: 110px;
+    object-fit: contain;
+  } 
+  .second {
+   height: 500px;
+   width: 200px;
+   background-color: darkgray;
+   margin-left:  110px;
+  
+  }
+  .third{
+   height: 500px;
+   width: 200px;
+   background-color:lightgreen;
+   margin-left: 110px;
+  
+  }
+  .fourth{
+    height: 500px;
+   width: 200px;
+   background-color: darkgray;
+   margin-left: 110px;
+  }
+  .image {
+     padding-top: 30px;
+    padding-inline: 10px;
+     
+  }
+  .burger2 {
+  padding-top: 30px; 
+  padding-inline: 10px;
+  }
+  
+  .burger3 {
+    padding-top: 30px;
+    padding-inline: 10px;
+  }
+  .burger4{
+    padding-top: 30px;
+    padding-inline: 10px;
+  }
+.by{
+    margin-top: 50px;
+}
